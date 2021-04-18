@@ -1,5 +1,5 @@
 # Stochastic simulations for the HIV LTR promoter
-This repository contains a Jupyter notebook for recreating Figs. 1C and 1D from
+This repository contains a Jupyter notebook for recreating Figures 1C and 1D from
 Blanco et al. 2021. Both the figures were generated using the R programming language.
 
 The details of the simulations can be found in the methods section of the paper.
